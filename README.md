@@ -145,3 +145,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+## Extra Credit
+Another developer option from the Developer Options screen was "Stay Awake." This feature keeps the screen on while the device is plugged in. The "Stay Awake" feature is particularly useful by preventing the screen from turning off/timing out during working sessions. I believe that this feature will be very useful during class and is something that I will actively use on a daily basis. This is because if the screen were to periodically turn off, it could disrupt my workflow and potentially cause errors and unnecessary mistakes. Keeping the screen on at all times, when plugged in, will allow for increased efficiency and focus. This feature appears to be a highly practical tool that I believe I will be using during class this quarter.
